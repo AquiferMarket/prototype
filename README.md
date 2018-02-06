@@ -1,1 +1,5 @@
 # prototype
+
+TODO:
+* Company page
+*
